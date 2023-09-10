@@ -47,6 +47,12 @@ A tool to reset password by sammaccountname
   <img  src="https://user-images.githubusercontent.com/30836537/266810720-eba5f5eb-6aee-4979-bf73-951d8b57fbe4.png">
 </p>
 
+## AD Remove User Access GUI
+A tool to remove all secure groups of user
 
+  ### Screenshots 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/30836537/266811319-d9c35ec8-dc74-4f07-b424-11b2cbdf78d3.png">
+</p>
 
 
