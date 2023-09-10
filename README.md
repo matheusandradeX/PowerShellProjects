@@ -19,19 +19,34 @@ Add-WindowsCapability –online –Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0
 - Copy user data to cliboard (userfull to service desk team paste on ITSM Incident Ticket
 
 ### Screenshots 
-  ### Main Screen
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/30836537/266756779-a91e5b2b-6e5a-4e02-b002-65c3d3ec290c.png">
+  <img  src="https://user-images.githubusercontent.com/30836537/266809189-104e4f37-d79c-4ce5-91e1-e6e52d355cae.png">
 </p>
 
-  ### User Screen
+## AD Import User from CSV
+
+A tool to import a list of users in your Active Diretory by CSV file 
+## Dependencies
+Needs to change UPN value in the script  to your domain name and fill CSV model File with user data
+
+### Screenshots 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/30836537/266756787-921339e4-9631-41c2-876e-6965eb67a333.png">
+  <img  src="https://user-images.githubusercontent.com/30836537/266808831-37cd67f2-2359-46ad-a250-e0810bfc46db.png">
 </p>
 
-  ### Groups Screen
+## AD Reset Password
+A tool to reset password by sammaccountname 
+ ### Features
+
+ - Select doamin controller 
+ - Show user info
+-  Unlock user
+-  Generate strong random password
+  ### Screenshots 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/30836537/266756764-a7a9be6b-4482-45cf-a653-eed7294d7ec2.png">
+  <img  src="https://user-images.githubusercontent.com/30836537/266810720-eba5f5eb-6aee-4979-bf73-951d8b57fbe4.png">
 </p>
+
+
 
 
